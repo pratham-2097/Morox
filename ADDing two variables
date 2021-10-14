@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main()
+{ 
+int x= 21;
+double y= 21;
+cin>>"enter a number:";
+cout<< x+y;}
